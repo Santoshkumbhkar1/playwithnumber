@@ -116,16 +116,4 @@ document.querySelector('.rplay').addEventListener('click', function(){
   });
 
 
-// const measureKelvin =function(){
-//     const measurement ={
-//         type :'temp',
-//         unit: 'celcius',
-//         value: promt ('Degree celsius:')
-
-//     };
-
-//     const kelvin =measurement.value + 273;
-//     return kelvin;
-// };
-// console.log(measurekelvin());
- 
+/
